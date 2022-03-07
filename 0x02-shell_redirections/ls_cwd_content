@@ -1,0 +1,15 @@
+total 88
+drwxr-xr-x  14 idayatabdulkareem  staff  448  7 Mar 23:44 .
+drwxr-xr-x   6 idayatabdulkareem  staff  192  7 Mar 22:55 ..
+-rwxr--r--   1 idayatabdulkareem  staff   32  7 Mar 18:02 0-hello_world
+-rwxr--r--   1 idayatabdulkareem  staff   27  7 Mar 22:57 1-confused_smiley
+-rwxr--r--   1 idayatabdulkareem  staff   28  7 Mar 23:09 2-hellofile
+-rwxr--r--   1 idayatabdulkareem  staff   39  7 Mar 23:12 3-twofiles
+-rwxr--r--   1 idayatabdulkareem  staff   29  7 Mar 23:16 4-lastlines
+-rwxr--r--   1 idayatabdulkareem  staff   29  7 Mar 23:19 5-firstlines
+-rwxr--r--   1 idayatabdulkareem  staff   40  7 Mar 23:23 6-third_line
+-rwxr--r--   1 idayatabdulkareem  staff   78  7 Mar 23:34 7-file
+-rwxr--r--   1 idayatabdulkareem  staff   36  7 Mar 23:43 8-cwd_state
+-rw-r--r--   1 idayatabdulkareem  staff   38  7 Mar 18:09 README.md
+-rw-r--r--   1 idayatabdulkareem  staff   12  7 Mar 23:37 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r--   1 idayatabdulkareem  staff    0  7 Mar 23:44 ls_cwd_content
